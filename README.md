@@ -1,7 +1,25 @@
-- 👋 Hola soy alanYTT un pequeño Dev de la comunidad de Craftsman 
-- Algunos lenguajes que se son bash Python y Java scrip
+# 👋 ¡Hola! Soy alanYTT
 
-<!---
-AlanYTT/AlanYTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Bienvenido a mi perfil de GitHub! Soy un pequeño desarrollador en la comunidad de Craftsman.
+
+## 🔧 Tecnologías y Herramientas
+
+- Bash
+- Python
+- JavaScript
+
+## 🌟 Mis Repositorios
+
+Acá tienen Algunos de mis repositorios:
+
+[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo1)](https://github.com/alanYTT/NombreDelRepo1)
+[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo2)](https://github.com/alanYTT/NombreDelRepo2)
+
+<!-- Puedes añadir más repositorios de la misma forma -->
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alanYTT&show_icons=true&theme=radical)
+
+<!-- Añadir un contador de visitas -->
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=alanYTT)
