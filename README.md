@@ -12,8 +12,8 @@
 
 Acá tienen Algunos de mis repositorios:
 
-[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo1)](https://github.com/alanYTT/NombreDelRepo1)
-[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo2)](https://github.com/alanYTT/NombreDelRepo2)
+[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo1)](https://github.com/alanYTT/StatusServer)
+[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo2)](https://github.com/alanYTT/PluginChecker)
 
 <!-- Puedes añadir más repositorios de la misma forma -->
 
