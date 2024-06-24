@@ -10,10 +10,9 @@
 
 ## 🌟 Mis Repositorios
 
-Acá tienen Algunos de mis repositorios:
+Acá tienen Algunos de mis repositorios mas abajo :
 
-[![Repositorios](https://github-readme-stats.vercel.app/api/pin/?username=alanYTT&repo=NombreDelRepo1)](https://github.com/alanYTT/StatusServer)
-[![Repositorios](https://github.com/AlanYTT/PluginChecker)
+
 
 <!-- Puedes añadir más repositorios de la misma forma -->
 
